@@ -1,5 +1,5 @@
 - Welcome, I’m @Odyz.
-- Just a guy trying to learn how to code!
+- Just a guy trying to get by.
 
 <!---
 Odyz/Odyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
